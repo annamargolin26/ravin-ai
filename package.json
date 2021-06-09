@@ -1,0 +1,15 @@
+{
+  "name": "ravin-ai",
+  "version": "1.0.0",
+  "description": "ravin-ai flows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "anna-margolin-app"
+  },
+  "author": "Anna Margolin",
+  "license": "ISC"
+}
