@@ -79,6 +79,7 @@ async function runFlow(id){
             curStep=flow.states[curStep].exception;
         };  
     }
+    monitor(id,flow.flow,"finished",Date.now(),0);
 }
 /**
  * load data and on success execute 3 flows
